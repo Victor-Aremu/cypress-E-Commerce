@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Aremu/cypress-E-Commerce.git"
+  },
+  "author": "Victor_Aremu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Aremu/cypress-E-Commerce/issues"
+  },
+  "homepage": "https://github.com/Victor-Aremu/cypress-E-Commerce#readme",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
